@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cX/pjSGgieDmJ2HlGzE3g3G+zBX7naDmBG0oLHVBrv4mfHwwDMUdx8cH7CIvRV3NTVHIAwvyGGnfwwt7P1CA7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pmorrow\\OneDrive - Arbor Day Foundation\\Desktop\\NebraskaCode\\2023\\LicensePlateAdminSystem\\LicensePlateModels\\LicensePlateModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmorrow\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
